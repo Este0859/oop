@@ -36,8 +36,8 @@ var 15 = new Pessoa("João Madeira", "azul");
 var 18 = new Pessoa("Gonçalo Simão", "azul");
 18.saudacao();
 
-var 18a = new Pessoa("Luís Catarino", "azul");
-18a.saudacao();
+var 181 = new Pessoa("Luís Catarino", "azul");
+181.saudacao();
 
 var 20 = new Pessoa("Miguel Pinto", "azul");
 20.saudacao();
