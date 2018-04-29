@@ -24,8 +24,8 @@ var 10 = new Pessoa("Francisco Rodrigues", "azul");
 var 13 = new Pessoa("Daniel Serrano", "azul");
 13.saudacao();
 
-var 13a = new Pessoa("Fábio Franco", "azul");
-13a.saudacao();
+var 131 = new Pessoa("Fábio Franco", "azul");
+131.saudacao();
 
 var 14 = new Pessoa("João Neves", "azul");
 14.saudacao();
@@ -42,8 +42,8 @@ var 18a = new Pessoa("Luís Catarino", "azul");
 var 20 = new Pessoa("Miguel Pinto", "azul");
 20.saudacao();
 
-var 20a = new Pessoa("Maria Inês", "azul");
-20a.saudacao();
+var 201 = new Pessoa("Maria Inês", "azul");
+201.saudacao();
 
 var 21 = new Pessoa("Nuno Rodrigues", "azul");
 21.saudacao();
@@ -54,8 +54,8 @@ var 22 = new Pessoa("Pedro Fonseca", "azul");
 var 23 = new Pessoa("Miguel Dionísio", "azul");
 23.saudacao();
 
-var 23a = new Pessoa("Ricardo Gonçalves", "azul");
-23a.saudacao();
+var 231 = new Pessoa("Ricardo Gonçalves", "azul");
+231.saudacao();
 
 var 24 = new Pessoa("Sandu Lungu", "azul");
 24.saudacao();
@@ -66,8 +66,8 @@ var 25 = new Pessoa("Ricardo Pereira", "azul");
 var 26 = new Pessoa("Rodrigo Valério", "azul");
 26.saudacao();
 
-var 26a = new Pessoa("Samuel Vaz", "azul");
-26a.saudacao();
+var 261 = new Pessoa("Samuel Vaz", "azul");
+261.saudacao();
 
 var 28 = new Pessoa("Tomás Feith", "azul");
 28.saudacao();
@@ -75,5 +75,5 @@ var 28 = new Pessoa("Tomás Feith", "azul");
 var 29 = new Pessoa("Tiago Arriegas", "azul");
 29.saudacao();
 
-var 29a = new Pessoa("António Campaniço", "azul");
-29a.saudacao();
+var 291 = new Pessoa("António Campaniço", "azul");
+291.saudacao();
