@@ -6,74 +6,74 @@ function Pessoa(nomeCompleto, corFavorita) {
     }
 }
 
-var 02 = new Pessoa("André Costa", "amarelo");
-02.saudacao();
+var ac = new Pessoa("André Costa", "amarelo");
+ac.saudacao();
 
-var 03 = new Pessoa("António Lourenço", "azul");
-03.saudacao();
+var ad = new Pessoa("António Lourenço", "azul");
+ad.saudacao();
 
-var 06 = new Pessoa("Beatriz Barreto", "azul");
-06.saudacao();
+var ag = new Pessoa("Beatriz Barreto", "azul");
+ag.saudacao();
 
-var 08 = new Pessoa("Francisco Esteves", "azul");
-08.saudacao();
+var aj = new Pessoa("Francisco Esteves", "azul");
+aj.saudacao();
 
-var 10 = new Pessoa("Francisco Rodrigues", "azul");
-10.saudacao();
+var ba = new Pessoa("Francisco Rodrigues", "azul");
+ba.saudacao();
 
-var 13 = new Pessoa("Daniel Serrano", "azul");
-13.saudacao();
+var bd = new Pessoa("Daniel Serrano", "azul");
+bd.saudacao();
 
-var 131 = new Pessoa("Fábio Franco", "azul");
-131.saudacao();
+var bdb = new Pessoa("Fábio Franco", "azul");
+bdb.saudacao();
 
-var 14 = new Pessoa("João Neves", "azul");
-14.saudacao();
+var be = new Pessoa("João Neves", "azul");
+be.saudacao();
 
-var 15 = new Pessoa("João Madeira", "azul");
-15.saudacao();
+var bf = new Pessoa("João Madeira", "azul");
+bf.saudacao();
 
-var 18 = new Pessoa("Gonçalo Simão", "azul");
-18.saudacao();
+var bj = new Pessoa("Gonçalo Simão", "azul");
+bj.saudacao();
 
-var 181 = new Pessoa("Luís Catarino", "azul");
-181.saudacao();
+var bjb = new Pessoa("Luís Catarino", "azul");
+bjb.saudacao();
 
-var 20 = new Pessoa("Miguel Pinto", "azul");
-20.saudacao();
+var ca = new Pessoa("Miguel Pinto", "azul");
+ca.saudacao();
 
-var 201 = new Pessoa("Maria Inês", "azul");
-201.saudacao();
+var cab = new Pessoa("Maria Inês", "azul");
+cab.saudacao();
 
-var 21 = new Pessoa("Nuno Rodrigues", "azul");
-21.saudacao();
+var cb = new Pessoa("Nuno Rodrigues", "azul");
+cb.saudacao();
 
-var 22 = new Pessoa("Pedro Fonseca", "azul");
-22.saudacao();
+var cc = new Pessoa("Pedro Fonseca", "azul");
+cc.saudacao();
 
-var 23 = new Pessoa("Miguel Dionísio", "azul");
-23.saudacao();
+var cd = new Pessoa("Miguel Dionísio", "azul");
+cd.saudacao();
 
-var 231 = new Pessoa("Ricardo Gonçalves", "azul");
-231.saudacao();
+var cdb = new Pessoa("Ricardo Gonçalves", "azul");
+cdb.saudacao();
 
-var 24 = new Pessoa("Sandu Lungu", "azul");
-24.saudacao();
+var ce = new Pessoa("Sandu Lungu", "azul");
+ce.saudacao();
 
-var 25 = new Pessoa("Ricardo Pereira", "azul");
-25.saudacao();
+var cf = new Pessoa("Ricardo Pereira", "azul");
+cf.saudacao();
 
-var 26 = new Pessoa("Rodrigo Valério", "azul");
-26.saudacao();
+var cg = new Pessoa("Rodrigo Valério", "azul");
+cg.saudacao();
 
-var 261 = new Pessoa("Samuel Vaz", "azul");
-261.saudacao();
+var cgb = new Pessoa("Samuel Vaz", "azul");
+cgb.saudacao();
 
-var 28 = new Pessoa("Tomás Feith", "azul");
-28.saudacao();
+var cj = new Pessoa("Tomás Feith", "azul");
+cj.saudacao();
 
-var 29 = new Pessoa("Tiago Arriegas", "azul");
-29.saudacao();
+var ck = new Pessoa("Tiago Arriegas", "azul");
+ck.saudacao();
 
-var 291 = new Pessoa("António Campaniço", "azul");
-291.saudacao();
+var ckb = new Pessoa("António Campaniço", "azul");
+ckb.saudacao();
