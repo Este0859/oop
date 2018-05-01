@@ -3,7 +3,7 @@ function Pessoa(nomeCompleto, corFavorita) {
     this.corFav = corFavorita,
     this.saudacao = function() {
         var textoSaudacao = "Olá o meu nome é " + this.nome + " e a minha cor favorita é " + this.corFav;
-        document.write("<br>" + textoSaudacao);
+        document.write("a" + textoSaudacao);
     }
 }
 
