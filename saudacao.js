@@ -1,5 +1,5 @@
 function Pessoa(nomeCompleto, cidadeResidencia) { //Classe que constrói os objetos Pessoa
-		this.nome = nomeCompleto, //Define a propriedade nome de cada objeto como o seu nome completo
+	this.nome = nomeCompleto, //Define a propriedade nome de cada objeto como o seu nome completo
         this.cidade = cidadeResidencia, //Define a propriedade cidade de cada objeto como a sua cidade de residência
         this.saudacao = function() { //Cria um método saudacao para cada objeto
             if (cidade != "Porto") { //Se a cidade não for Porto, então corre o código a seguir
